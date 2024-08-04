@@ -1,7 +1,7 @@
 {
-  "name": "ascend-server",
+  "name": "server",
   "version": "1.0.0",
-  "description": "Ascend SAAS HR portal - A comprehensive HR and Task management solution for businesses.",
+  "description": "",
   "main": "src/server.js",
   "scripts": {
     "build": "npx tsc",
@@ -9,21 +9,8 @@
     "dev": "nodemon src/server.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "ascend",
-    "hr",
-    "saas",
-    "portal",
-    "task",
-    "human",
-    "resources",
-    "management",
-    "employees",
-    "recruitment",
-    "performance",
-    "payroll"
-  ],
-  "author": "FSV",
+  "keywords": [],
+  "author": "Faisal",
   "license": "ISC",
   "dependencies": {
     "compression": "^1.7.4",
